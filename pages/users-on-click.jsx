@@ -1,4 +1,4 @@
-import GetUsersOnClick from "../components/jsph/GetUsersonClick";
+import GetUsersOnClick from "../components/jsph/GetUsersOnClick";
 
 export default function UsersOnClickPage(){
   return <GetUsersOnClick />;
